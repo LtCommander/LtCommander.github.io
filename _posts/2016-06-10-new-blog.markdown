@@ -1,0 +1,6 @@
+---
+published: true
+title: New Blog!
+layout: post
+---
+I decided that I'm going to be migrating away from my shared blogsapce for my gamedev breakdowns. Turns out post-mortems on projects isn't really obvious content for a blog titled https://internethatemachinae.wordpress.com/ so here I am! We'll give TinyPress a try, I read that it was a good option on some blog somewhere.
