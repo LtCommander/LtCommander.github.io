@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://LtCommander.github.io
+title: BB_Devblog
+tagline: 88% gamedev byproduct by volume
+description: Thoughts and ramblings about 3d Modeling and Texture Art, Graphic Design, tech art, shaders, and whatever else is worth saying after a good game art project.
+paginate: 5
